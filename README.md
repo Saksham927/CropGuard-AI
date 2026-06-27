@@ -1,6 +1,10 @@
 # CropGuard AI - Smart Crop Disease Detection System
 CropGuard AI is a machine learning-based crop disease detection system that identifies diseases in apple leaves using a Convolutional Neural Network (CNN).
 
+Video Demo : 
+
+# Description
+
 # Features
 * Disease prediction from uploaded leaf images
 * CNN model built using TensorFlow and Keras
@@ -21,5 +25,11 @@ CropGuard AI is a machine learning-based crop disease detection system that iden
 # Dataset
 PlantVillage Dataset
 
-# Team Project
-This project was developed as a team project. My primary contributions included designing and training the CNN model using TensorFlow/Keras, image preprocessing, model evaluation, TensorFlow Lite model export, and backend integration. The web frontend was developed by another team member.
+
+
+
+# Team Contributions
+This project has been developed as a team of three. My primary contributions include designing, training, and evaluating the CNN model using TensorFlow and Keras, image preprocessing, model evaluation, debugging the machine learning pipeline, and backend integration. My other team member developed the frontend interface, while another assisted with Python development and testing.
+
+# AI Assistance
+ChatGPT was used during development for debugging, implementation suggestions, code refinement, and troubleshooting. All AI suggestions were reviewed, tested, modified where necessary and understood before being implemented into the final project.
